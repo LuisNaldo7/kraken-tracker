@@ -1,5 +1,7 @@
 # Kraken-Tracker
 
+Connects to Kraken.com public API and pushes price updates to discord.
+
 ## Prerequisites
 
 node v16.13.0
